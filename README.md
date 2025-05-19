@@ -33,4 +33,4 @@ Projekt został wykonany przy użyciu:
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone https://github.com/twoja-nazwa-uzytkownika/pasieka-sklep.git
+   git clone https://github.com/To1MaszProblem/ApiaryWeb.git
