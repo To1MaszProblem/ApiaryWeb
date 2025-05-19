@@ -24,7 +24,7 @@ Projekt został wykonany przy użyciu:
 
 ## 🖼️ Podgląd
 
-![Zrzut ekranu](screnshot.jpg)  
+![Zrzut ekranu](screnshot.png)  
 *Miody dostępne w naszej ofercie 🍯*
 
 ---
